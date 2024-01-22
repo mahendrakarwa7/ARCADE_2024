@@ -2,7 +2,7 @@ Task - 1
 open spreadsheet -> File -> Make a copy
 
 Task - 2 
-Upload .csv file to drive -> open with spreadsheet
+Upload exported.csv file to drive -> open with spreadsheet
 
 Task - 3 
-Import -> important-data file -> create new spreadsheet -> share -> Qwiklabs
+Import -> important-data.xlxs file -> create new spreadsheet -> share -> Qwiklabs
