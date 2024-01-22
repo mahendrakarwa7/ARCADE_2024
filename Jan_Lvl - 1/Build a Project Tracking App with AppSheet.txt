@@ -1,0 +1,8 @@
+Task -1 
+open spreadsheet
+
+File -> Make a copy -> extensions -> appsheet -> create a app
+
+Task -5
+
+Check My progress 
