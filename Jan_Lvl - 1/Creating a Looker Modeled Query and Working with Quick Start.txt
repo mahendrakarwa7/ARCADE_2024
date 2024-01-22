@@ -2,13 +2,15 @@
 
 Imp Changes after deploy to production
 
-1. click on looker -> order items -> start new 
+1. click on looker -> Explore -> order items -> start new 
 
 2. click on gear icon -> products department -> pivot
 
 3. visulaizarions -> column
 
 4. edit option -> second option (stacked)
+
+5. Save as look -> Order Items Count per State
 
 
 =============================================
