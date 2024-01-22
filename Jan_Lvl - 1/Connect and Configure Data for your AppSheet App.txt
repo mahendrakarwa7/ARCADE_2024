@@ -1,0 +1,16 @@
+Task - 1 
+
+Login to Appsheet -> Make a copy -> Customer Contacts
+
+Task - 2
+
+Open Spreadsheet -> Make a copy and Rename it -> companies
+
+Task - 3
+
+Go to Drive -> Appsheet -> companies.xls -> Import and replace with Downloaded spreadsheet
+https://github.com/quiccklabs/Labs_solutions/blob/32742f7547589c41b28c9c2d1c23ed98ef773ebe/Connect%20and%20Configure%20Data%20for%20your%20AppSheet%20App/quicklab.xlsx
+
+Task - 4
+
+Appsheet -> Three lines (Data) -> Regenerate schema
