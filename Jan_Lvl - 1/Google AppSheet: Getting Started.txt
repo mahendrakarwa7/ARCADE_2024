@@ -1,0 +1,8 @@
+Task - 1
+Login to Appsheet
+
+Task - 2 
+open spreadsheet -> Make a copy -> Rename it -> Personal Contacts
+
+Task - 3
+In appsheet -> create an App -> Customer Contacts -> Select category -> Customer Engagement -> Select data source -> spreadsheet
